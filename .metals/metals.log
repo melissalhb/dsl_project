@@ -1,0 +1,303 @@
+2025.01.18 17:11:58 INFO  Started: Metals version 1.4.2 in folders 'C:\Users\mella\dsl_project' for client Visual Studio Code 1.96.3.
+2025.01.18 17:11:58 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 18, 2025 5:12:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2025.01.18 17:12:03 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.18 17:12:03 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 18, 2025 5:12:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+2025.01.18 17:12:03 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 18, 2025 5:12:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+2025.01.18 17:12:03 WARN  no build target for: C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala
+2025.01.18 17:12:03 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.18 17:12:03 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.18 17:12:06 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.18 17:13:22 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.18 17:14:04 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.18 17:14:04 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.18 17:14:04 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.18 17:14:09 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.18 17:14:11 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.18 17:14:50 INFO  Shutting down server
+2025.01.18 17:14:50 INFO  shutting down Metals
+2025.01.18 17:14:50 INFO  Exiting server
+2025.01.20 11:02:52 INFO  Started: Metals version 1.4.2 in folders 'C:\Users\mella\dsl_project' for client Visual Studio Code 1.96.4.
+2025.01.20 11:02:52 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 11:02:54 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 11:39:52 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:08:20 INFO  Started: Metals version 1.4.2 in folders 'C:\Users\mella\dsl_project' for client Visual Studio Code 1.96.4.
+2025.01.20 13:08:24 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:08:26 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:08:26 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:08:32 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:10:25 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:10:25 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:10:26 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:10:26 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:10:27 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:10:27 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:10:30 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:10:30 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:10:30 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:10:31 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:10:36 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:13:36 INFO  Shutting down server
+2025.01.20 13:13:36 INFO  shutting down Metals
+2025.01.20 13:13:36 INFO  Exiting server
+2025.01.20 13:17:23 INFO  Started: Metals version 1.4.2 in folders 'C:\Users\mella\dsl_project' for client Visual Studio Code 1.96.4.
+2025.01.20 13:17:23 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:17:26 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:17:32 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:17:46 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:18:03 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:18:07 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:18:07 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:18:07 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:18:07 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:18:08 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:18:08 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:18:14 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:18:18 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:18:21 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:18:21 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:18:21 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:18:21 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:18:21 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:18:49 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:19:48 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\test\scala\MySuite.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:19:48 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\test\scala\MySuite.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:19:48 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\test\scala\MySuite.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:19:50 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:19:50 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:19:52 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:20:22 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:20:22 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:20:24 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Exception in thread "pool-25-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:244)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2025.01.20 13:20:24 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:21:10 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:21:21 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\test\scala\MySuite.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:21:21 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:21:21 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:21:21 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:21:23 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:22:39 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:22:39 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:22:39 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:22:39 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:22:40 WARN  no build target for: C:\Users\mella\dsl_project\dsl_project\build.sbt
+2025.01.20 13:23:21 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:23:44 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:23:44 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:23:45 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:23:48 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:23:48 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:23:48 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:23:49 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:23:49 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:10 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:10 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:10 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:11 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:11 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:11 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:13 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:13 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:13 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:14 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:14 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:14 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:15 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:14 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:15 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:15 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:15 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:15 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:16 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:17 WARN  no build target for: C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala
+2025.01.20 13:24:17 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:17 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:17 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:18 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:18 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:18 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:18 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:18 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:18 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:19 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:18 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:19 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:19 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:19 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:19 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:19 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:20 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:19 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:21 WARN  no build target for: C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala
+2025.01.20 13:24:21 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:21 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:22 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:24 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:25 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:25 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:26 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:27 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:28 WARN  no build target for: C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala
+2025.01.20 13:24:28 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:28 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:28 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:28 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:29 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:28 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:28 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:28 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:28 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:28 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:29 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:28 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:28 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:29 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:29 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:30 WARN  no build target for: C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala
+2025.01.20 13:24:30 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:30 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:29 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:30 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:31 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:31 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:31 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:32 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:32 WARN  no build target for: C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala
+2025.01.20 13:24:32 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:32 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:32 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:34 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:37 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:37 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:38 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:39 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:39 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:39 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:40 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:40 WARN  no build target for: C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala
+2025.01.20 13:24:40 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:40 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:40 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:40 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:40 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:40 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:40 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:41 WARN  no build target for: C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala
+2025.01.20 13:24:41 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:41 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:41 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:41 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:41 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:43 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:43 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:43 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:43 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:43 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:43 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:44 WARN  no build target for: C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala
+2025.01.20 13:24:44 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:44 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:44 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:44 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:45 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:45 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:45 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:47 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:47 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:47 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:47 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:49 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:49 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:49 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:49 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:24:50 WARN  no build target for: C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala
+2025.01.20 13:24:50 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:25:15 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:25:15 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:27:35 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:27:36 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:27:36 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:27:37 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:27:37 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:27:37 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:27:37 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:27:39 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:27:39 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:27:40 WARN  no build target for: C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala
+2025.01.20 13:27:40 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:27:40 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:27:46 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:27:46 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:27:48 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:27:48 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:27:48 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:27:48 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:27:48 WARN  Could not find semantic tokens for: file:///C:/Users/mella/dsl_project/dsl_project/build.sbt
+2025.01.20 13:27:49 WARN  no build target for: C:\Users\mella\dsl_project\dsl_project\build.sbt
+2025.01.20 13:27:49 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:27:49 WARN  Could not find semantic tokens for: file:///C:/Users/mella/dsl_project/dsl_project/build.sbt
+2025.01.20 13:28:49 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:28:49 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:28:49 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:28:49 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:28:50 WARN  no build target for: C:\Users\mella\dsl_project\dsl_project\build.sbt
+2025.01.20 13:28:50 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:29:32 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:29:32 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:29:57 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:29:58 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:29:58 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:29:58 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:30:00 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:30:10 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:31:12 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:31:14 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:31:14 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:31:14 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:31:14 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:31:16 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:31:16 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:31:16 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:31:19 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:31:21 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:31:30 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:31:30 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:31:30 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:31:31 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:31:31 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:31:33 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:31:33 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:31:33 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:31:34 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:31:39 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:31:40 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:31:41 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:31:41 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:31:41 WARN  no build target for: C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala
+2025.01.20 13:31:41 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:31:44 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:32:21 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:32:21 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:32:21 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:32:22 WARN  no build target for: C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala
+2025.01.20 13:32:22 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:32:26 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:33:58 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:33:58 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:33:58 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:34:02 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:34:02 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:34:04 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.20 13:34:04 INFO  no build target found for C:\Users\mella\dsl_project\dsl_project\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
