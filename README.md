@@ -91,17 +91,31 @@ Pour lancer un exemple d'utilisation : **sbt run** dans l'nvite de commande
 
 ## Structure du projet
 configdsl/
-├── src/
-│   ├── main/
-│   │   ├── scala/
-│   │   │   ├── ConfigDSL.scala   # DSL principal
-│   │   │   ├── Config.scala      # Implémentation de la configuration
-│   │   │   └── Main.scala        # Exemple d'utilisation
-│   ├── test/
-│       └── scala/
-│           └── ConfigSpec.scala  # Tests unitaires
-├── build.sbt                      # Fichier SBT pour le projet
-└── README.md                      # Documentation
+├── core/                      # Bibliothèque principale (DSL)
+│   ├── src/
+│   │   ├── main/
+│   │   │   └── scala/
+│   │   │       ├── ConfigDSL.scala    # DSL principal
+│   │   │       ├── Config.scala       # Gestion des configurations immuables
+│   │   │       └── Types.scala        # Types et abstractions du DSL
+│   │   └── test/
+│   │       └── scala/
+│   │           └── ConfigSpec.scala   # Tests unitaires pour core
+├── examples/                 # Exemples d'utilisation
+│   ├── src/
+│   │   ├── main/
+│   │   │   └── scala/
+│   │   │       └── ExampleApp.scala   # Exemple d'application
+├── tests/                    # Module dédié aux tests 
+│   ├── src/
+│   │   └── scala/
+│   │       └── AdvancedTests.scala    # Tests avancés pour scénarios complexes
+├── build.sbt                 # Configuration SBT principale
+├── project/
+│   ├── build.properties      # Version de SBT utilisée
+│   └── plugins.sbt           # Plugins SBT nécessaires
+├── README.md                 # Documentation principale
+└── LICENSE                   # Licence du projet
 
 
 ## Licence
