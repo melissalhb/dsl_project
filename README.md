@@ -65,9 +65,50 @@ object Main extends App {
   run()
 }
 
+```
 ---
 
 ## Instructions
+
 ### Prérequis
-- **Scala 2.13+ ou Scala 3+
-- **SBT (Scala Build Tool)
+- Scala 2.13+ ou Scala 3+
+- SBT (Scala Build Tool)
+
+### Cloner le projet
+Clonez le projet en exécutant cette  instruction dans l'nvite de commande
+"git clone https://github.com/votre-utilisateur/configdsl.git
+cd configdsl"
+
+### Builder le projet
+Pour compiler le projet : **sbt compile** dans l'nvite de commande
+
+### Tester le projet
+Pour exécuter les tests : **sbt test** dans l'nvite de commande
+
+### Lancer un exemple
+Pour lancer un exemple d'utilisation : **sbt run** dans l'nvite de commande
+
+
+## Structure du projet
+configdsl/
+├── src/
+│   ├── main/
+│   │   ├── scala/
+│   │   │   ├── ConfigDSL.scala   # DSL principal
+│   │   │   ├── Config.scala      # Implémentation de la configuration
+│   │   │   └── Main.scala        # Exemple d'utilisation
+│   ├── test/
+│       └── scala/
+│           └── ConfigSpec.scala  # Tests unitaires
+├── build.sbt                      # Fichier SBT pour le projet
+└── README.md                      # Documentation
+
+
+## Licence
+Ce projet est sous licence MIT. Vous êtes libre de l'utiliser, le modifier et le redistribuer avec attribution.
+
+## Auteurs
+- **Mélissa**
+- **Rayan**
+- **Aymar**
+    
