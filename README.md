@@ -65,6 +65,8 @@ object Main extends App {
   run()
 }
 
+---
+
 ## Instructions
 ### Prérequis
 - **Scala 2.13+ ou Scala 3+
