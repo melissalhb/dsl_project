@@ -1,0 +1,17 @@
+import ConfigDSL._
+
+object Main extends App {
+  // Définir des clés typées
+  val hostKey = define[String]("host")
+  val portKey = define[Int]("port")
+
+  // Construire une configuration
+  val appConfig = config { c =>
+    c.add(hostKey, "localhost")
+     .add(portKey, 8080)
+  }
+
+  // Lire les valeurs
+  println(appConfig.get(hostKey))  // Résultat : Some("localhost")
+  println(appConfig.get(portKey))  // Résultat : Some(8080)
+}
