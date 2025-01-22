@@ -92,6 +92,11 @@ Pour lancer un exemple d'utilisation : **sbt run** dans l'nvite de commande
 
 
 ## Structure du projet
+Le projet est organisé en plusieurs sous-composants pour une meilleure séparation des responsabilités :
+- **Core DSL :** Implémente le cœur du DSL et les opérations principales.
+- **Examples :** Contient des exemples concrets montrant comment utiliser le DSL dans des scénarios réalistes.
+- **Tests :** Fournit des tests unitaires pour valider les comportements du DSL et garantir la qualité du code.
+
 ├── .bsp/                  # Configuration du système de build Scala (BSP - Build Server Protocol)
 ├── .metals/               # Fichiers et configurations générés par Metals (extension Scala pour les IDE)
 ├── .vscode/               # Configurations spécifiques à Visual Studio Code
@@ -111,7 +116,11 @@ Pour lancer un exemple d'utilisation : **sbt run** dans l'nvite de commande
 ├── target/                # Répertoire pour les artefacts compilés et temporaires
 └── metals.log             # Journal généré par Metals
 
-
+## Améliorations futures
+- **Validation avancée :** Ajouter des mécanismes de validation pour s’assurer que certaines clés respectent des contraintes spécifiques (exemple : un numéro de port entre 0 et 65535).
+- **Sérialisation/Désérialisation :** Intégrer la prise en charge des formats standard (JSON, YAML) pour importer/exporter des configurations facilement.
+- **Interopérabilité :** Fournir des adaptateurs pour interagir avec des bibliothèques tierces de gestion de configuration.
+- **Performances :** Optimiser les opérations sur de grandes configurations en utilisant des structures de données persistantes.
 
 ## Licence
 Ce projet est sous licence MIT. Vous êtes libre de l'utiliser, le modifier et le redistribuer avec attribution.
