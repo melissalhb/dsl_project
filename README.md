@@ -77,7 +77,7 @@ object Main extends App {
 ### Cloner le projet
 Clonez le projet en exécutant cette  instruction dans l'nvite de commande
 "git clone https://github.com/votre-utilisateur/configdsl.git
-cd configdsl"
+cd dsl_project"
 
 ### Builder le projet
 Pour compiler le projet : **sbt compile** dans l'nvite de commande
@@ -90,32 +90,25 @@ Pour lancer un exemple d'utilisation : **sbt run** dans l'nvite de commande
 
 
 ## Structure du projet
-configdsl/
-├── core/                      # Bibliothèque principale (DSL)
-│   ├── src/
-│   │   ├── main/
-│   │   │   └── scala/
-│   │   │       ├── ConfigDSL.scala    # DSL principal
-│   │   │       ├── Config.scala       # Gestion des configurations immuables
-│   │   │       └── Types.scala        # Types et abstractions du DSL
-│   │   └── test/
-│   │       └── scala/
-│   │           └── ConfigSpec.scala   # Tests unitaires pour core
-├── examples/                 # Exemples d'utilisation
-│   ├── src/
-│   │   ├── main/
-│   │   │   └── scala/
-│   │   │       └── ExampleApp.scala   # Exemple d'application
-├── tests/                    # Module dédié aux tests 
-│   ├── src/
-│   │   └── scala/
-│   │       └── AdvancedTests.scala    # Tests avancés pour scénarios complexes
-├── build.sbt                 # Configuration SBT principale
-├── project/
-│   ├── build.properties      # Version de SBT utilisée
-│   └── plugins.sbt           # Plugins SBT nécessaires
-├── README.md                 # Documentation principale
-└── LICENSE                   # Licence du projet
+├── .bsp/                  # Configuration du système de build Scala (BSP - Build Server Protocol)
+├── .metals/               # Fichiers et configurations générés par Metals (extension Scala pour les IDE)
+├── .vscode/               # Configurations spécifiques à Visual Studio Code
+│   └── settings.json      # Paramètres de l'éditeur
+├── dsl_project/           # Nom du projet principal
+├── project/               # Répertoire des configurations et dépendances SBT
+├── src/                   # Répertoire source principal
+│   ├── main/              # Code source principal
+│   │   └── scala/         # Code Scala du projet
+│   │       └── Main.scala # Point d'entrée principal de l'application
+│   └── test/              # Tests unitaires
+│       └── scala/         # Tests Scala
+│           └── MySuite.scala # Exemple de suite de tests
+├── .gitignore             # Fichiers et répertoires ignorés par Git
+├── README.md              # Documentation du projet
+├── build.sbt              # Fichier de configuration SBT (Scala Build Tool)
+├── target/                # Répertoire pour les artefacts compilés et temporaires
+└── metals.log             # Journal généré par Metals
+
 
 
 ## Licence
