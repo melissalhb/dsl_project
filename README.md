@@ -97,24 +97,45 @@ Le projet est organisé en plusieurs sous-composants pour une meilleure séparat
 - **Examples :** Contient des exemples concrets montrant comment utiliser le DSL dans des scénarios réalistes.
 - **Tests :** Fournit des tests unitaires pour valider les comportements du DSL et garantir la qualité du code.
 
-├── .bsp/                  # Configuration du système de build Scala (BSP - Build Server Protocol)
-├── .metals/               # Fichiers et configurations générés par Metals (extension Scala pour les IDE)
-├── .vscode/               # Configurations spécifiques à Visual Studio Code
-│   └── settings.json      # Paramètres de l'éditeur
-├── dsl_project/           # Nom du projet principal
-├── project/               # Répertoire des configurations et dépendances SBT
-├── src/                   # Répertoire source principal
-│   ├── main/              # Code source principal
-│   │   └── scala/         # Code Scala du projet
-│   │       └── Main.scala # Point d'entrée principal de l'application
-│   └── test/              # Tests unitaires
-│       └── scala/         # Tests Scala
-│           └── MySuite.scala # Exemple de suite de tests
-├── .gitignore             # Fichiers et répertoires ignorés par Git
-├── README.md              # Documentation du projet
-├── build.sbt              # Fichier de configuration SBT (Scala Build Tool)
-├── target/                # Répertoire pour les artefacts compilés et temporaires
-└── metals.log             # Journal généré par Metals
+
+---
+
+### Description des principaux éléments
+
+#### **1. Répertoires générés automatiquement**
+- **`.bsp/`** : Gère l'intégration avec le protocole Build Server Protocol (BSP) pour les outils compatibles.
+- **`.metals/`** : Contient des fichiers nécessaires pour Metals, un outil d'analyse et de compilation Scala.
+- **`.vscode/`** : Paramètres spécifiques pour Visual Studio Code, facilitant la configuration de l'IDE.
+
+#### **2. Répertoires de projet**
+- **`project/`** :
+  - **`build.properties`** : Définit la version de SBT utilisée pour ce projet.
+  - **`target/`** : Répertoire temporaire pour les fichiers générés lors des builds.
+  - **`.history3`** : Fichier d'historique des commandes SBT exécutées.
+
+#### **3. Répertoire `src/`**
+- **`src/main/scala/`** :
+  - **`Config.scala`** : Contient l'implémentation principale du DSL (par exemple, `Config`, `ConfigKey`, `ConfigValue`).
+  - **`Main.scala`** : Point d'entrée pour démontrer les fonctionnalités du DSL.
+- **`src/test/scala/`** :
+  - **`ConfigSpec.scala`** : Suite de tests unitaires pour valider les fonctionnalités principales du DSL.
+  - **`testUseCase.scala`** : Tests supplémentaires pour des scénarios spécifiques.
+
+#### **4. Répertoire `Examples/`**
+- Contient des worksheets Scala interactifs pour tester et démontrer les fonctionnalités du DSL :
+  - **`worksheet1.sc`** : Exemple simple montrant la création et l'utilisation de clés.
+  - **`worksheet2.sc`** : Ajout, mise à jour, et suppression de clés.
+  - **`worksheet3.sc`** : Cas d'utilisation conditionnels.
+  - **`worksheet4.sc`** : Scénarios avancés et tests de performance.
+
+#### **5. Fichiers de configuration**
+- **`build.sbt`** : Fichier principal pour la gestion des dépendances et la configuration du projet.
+- **`.gitignore`** : Définit les fichiers à exclure du contrôle de version (par exemple, `target/`, `.metals/`).
+
+#### **6. Documentation**
+- **`README.md`** : Contient la documentation du projet, y compris une introduction, des instructions d'installation, des exemples, et la structure du projet.
+
+---
 
 ## Améliorations futures
 - **Validation avancée :** Ajouter des mécanismes de validation pour s’assurer que certaines clés respectent des contraintes spécifiques (exemple : un numéro de port entre 0 et 65535).
