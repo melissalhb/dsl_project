@@ -1,15 +1,17 @@
-# ConfigDSL
+# dsl_project
 
 ## Project Overview
 
-**ConfigDSL** est une bibliothèque Scala qui permet de gérer les configurations avec un DSL (Domain-Specific Language) intuitif et fortement typé. Ce DSL a été conçu pour simplifier la définition, la manipulation et l'accès aux configurations dans des projets fonctionnels.
+- **Contexte**: Au sein d'une entreprise de développement logiciel
+- **Probleme**: Les développeurs manipulent souvent des fichiers de configuration sous formats  JSON, YAML, ou HOCON. qui sont parfois difficiles à valider, sujets à erreurs, et peu flexibles et complexes.
+- **Pourquoi un DSL ?** il permet de définir des configurations directement dans le code, avec validation au moment de la compilation et une syntaxe fluide.
 
-Les configurations sont une part essentielle de nombreux systèmes logiciels. Avec **ConfigDSL**, vous pouvez :
+Ce projet Scala permet de gérer les configurations d'applications avec un DSL (Domain-Specific Language) intuitif et fortement typé. Ce DSL a été conçu pour simplifier la définition, la manipulation et l'accès aux configurations dans des projets fonctionnels.
+
+Ce DSL permet de :
 - Définir des clés de configuration fortement typées.
 - Construire des configurations immuables avec une syntaxe fluide.
 - Accéder aux valeurs avec une sécurité des types, évitant ainsi les erreurs communes liées à des types incohérents.
-
-Le DSL favorise les bonnes pratiques de programmation fonctionnelle tout en étant extensible pour s'adapter à des besoins spécifiques.
 
 ---
 
@@ -17,7 +19,7 @@ Le DSL favorise les bonnes pratiques de programmation fonctionnelle tout en éta
 
 ### Motivation
 
-La conception de **ConfigDSL** repose sur les principes suivants :
+La conception de ce DSL repose sur les principes suivants :
 1. **Sécurité des types** : Chaque clé de configuration est associée à un type, garantissant que seules des valeurs de ce type peuvent être associées ou récupérées.
 2. **Immutabilité** : Les configurations sont immuables, respectant les paradigmes de la programmation fonctionnelle.
 3. **Simplicité** : Fournir une syntaxe intuitive et fluide pour faciliter la création et la manipulation des configurations.
@@ -71,12 +73,12 @@ object Main extends App {
 ## Instructions
 
 ### Prérequis
-- Scala 2.13+ ou Scala 3+
+- Scala 3
 - SBT (Scala Build Tool)
 
 ### Cloner le projet
 Clonez le projet en exécutant cette  instruction dans l'nvite de commande
-"git clone https://github.com/votre-utilisateur/configdsl.git
+"git clone https://github.com/melissalhb/dsl_project.git
 cd dsl_project"
 
 ### Builder le projet
